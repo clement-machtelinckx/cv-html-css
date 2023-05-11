@@ -1,0 +1,19 @@
+/*head*/
+
+/*body*/
+.sec_tt {
+    display: flex;
+
+}
+/*parti gauche*/
+
+section.gauche {
+    flex: 0 0 30%;
+    background-color: rgb(196, 27, 27);
+    color: white;
+}
+/*parti droite*/
+section.droite{
+    flex: 2;
+
+}
